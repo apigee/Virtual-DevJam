@@ -10,13 +10,13 @@ In this workshop, you will:
 
 ## Agenda 
 
-#### DAY-1 (duration 1hr)
+#### DAY-1 (Duration : 60 minutes)
 * Introduction to Edge
 * Lab 1 – Create a simple API proxy
 * Lab 2 – Protect APIs
 * Summary
 
-#### DAY-2 (duration 1hr)
+#### DAY-2 (Duration 60 minutes)
 * Welcome & Recap 
 * Lab 3 – Secure your APIs
 * Lab 4 – Building Custom Reports
