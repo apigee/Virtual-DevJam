@@ -1,4 +1,4 @@
-# Virtual-DevJam
+# Apigee Virtual DevJam
 Welcome to Apigee Virtual DevJam. We are excited to invite you into the previliged Apigee Developer community. In this workshop you will find out how the world’s leading brands are using Apigee to power the world’s leading APIs. You can take advantage of this unique opportunity to start building professional-grade APIs using Apigee Edge. This hands-on workshop will teach you how to easily expose existing backend assets as secure, scalable APIs that developers will actually want to use.  
 
 In this workshop, you will:
