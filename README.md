@@ -16,7 +16,7 @@ In this workshop, you will:
 * Lab 2 – Protect APIs
 * Summary
 
-#### DAY-2 (Duration 60 minutes)
+#### DAY-2 (Duration : 60 minutes)
 * Welcome & Recap 
 * Lab 3 – Secure your APIs
 * Lab 4 – Building Custom Reports
