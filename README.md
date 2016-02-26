@@ -20,4 +20,8 @@ In this workshop, you will:
 * Lab 4 – Building Custom Reports
 * Summary and Closing  
 
-Have questions go to http://community.apigee.com 
+#### Pre-requisites
+Apigee Edge Trial/Free Account with an Org, Laptop, Browser (Chrome or Firefox), a DESIRE to have fun building APIs.
+
+#### Where to go from here 
+http://community.apigee.com 
