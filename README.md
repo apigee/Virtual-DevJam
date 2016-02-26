@@ -6,15 +6,17 @@ In this workshop, you will:
 * Gain end-to-end visibility across your APIs from the user all the way to your backend using Apigee Analytics Services.
 * Understand how to quickly onboard developers your APIs using Apigee Developer Services.
 
-## Agenda
+#### Duration 2 hours.
 
-#### DAY-1
+## Agenda 
+
+#### DAY-1 (duration 1hr)
 * Introduction to Edge
 * Lab 1 – Create a simple API proxy
 * Lab 2 – Protect APIs
 * Summary
 
-#### DAY-2
+#### DAY-2 (duration 1hr)
 * Welcome & Recap 
 * Lab 3 – Secure your APIs
 * Lab 4 – Building Custom Reports
