@@ -6,7 +6,7 @@ In this workshop, you will:
 * Gain end-to-end visibility across your APIs from the user all the way to your backend using Apigee Analytics Services.
 * Understand how to quickly onboard developers your APIs using Apigee Developer Services.
 
-#### Duration 2 hours.
+#### Duration : 2 hours.
 
 ## Agenda 
 
